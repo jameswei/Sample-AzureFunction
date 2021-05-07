@@ -6,7 +6,6 @@ namespace Sample.AzureFunction
     {
         Guid OrderId { get; }
         DateTime Timestamp { get; }
-
         string OrderNumber { get; }
     }
 }
